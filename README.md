@@ -1,5 +1,7 @@
 ### 안녕하세요! 백엔드 개발자 원현진입니다! 👋
 
+Spring Boot, JPA의 편리함을 선호합니다.
+
 ## 👨‍💻 Skills
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=SpringBoot&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
