@@ -21,6 +21,9 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Kafka](https://img.shields.io/badge/apachekafka-%231F20.svg?style=for-the-badge&logo=git&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%FF4438.svg?style=for-the-badge&logo=git&logoColor=white)
+![ELK](https://img.shields.io/badge/elastic-%005571.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
